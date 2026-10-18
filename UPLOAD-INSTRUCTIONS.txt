@@ -1,0 +1,6 @@
+GitHub: English-Skills-4.0-SWLR → Add file → Upload files.
+ZIP архивін ашып, ішіндегі index.html, Reading.html, Writing.html, Listening.html, Speaking.html файлдарын репозиторийдің негізгі папкасына жүктеңіз.
+Commit changes батырмасын басыңыз.
+Settings → Pages: жарияланатын тармақ пен папканы тексеріңіз.
+Actions бөлімінде жариялау аяқталғаннан кейін сайтты Ctrl+F5 арқылы жаңартыңыз.
+ZIP архивінің өзін немесе сыртқы папканы жүктемеңіз.
